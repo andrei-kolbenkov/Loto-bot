@@ -1,5 +1,10 @@
 # Loto-bot
 
+- requests
+- openpyxl
+- sqlite3
+- telebot
+
 The Telegram bot has several functions:
 1. Admin panel with task management
 2. Parsing tickets from the site
